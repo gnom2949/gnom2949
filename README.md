@@ -4,6 +4,6 @@
 **Email** ``pososias27@gmail.com``
 
 ## My Tech Stack
-![Static Badge](https://img.shields.io/badge/GTK?style=flat-square&logo=GTK&logoColor=purple&logoSize=10px)
+![GTK](https://img.shields.io/badge/GTK-4A86CF?style=flat&logo=gtk&logoColor=white)
 
 
