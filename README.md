@@ -5,5 +5,6 @@
 
 ## My Tech Stack
 ![GTK](https://img.shields.io/badge/GTK-4A86CF?style=flat&logo=gtk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-C061CB?style=for-the-badge&logo=linux&logoColor=white)
 
 
