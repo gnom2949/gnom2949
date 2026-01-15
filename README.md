@@ -12,3 +12,5 @@
 [![Laravel](https://img.shields.io/badge/Laravel-E01B24?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Wayland](https://img.shields.io/badge/Wayland-241F31?style=for-the-badge&logo=wayland&logoColor=white)](https://wayland.freedesktop.org/)
 
+## Language statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnom2949&layout=compact&theme=radical)](https://github.com/gnom2949)
