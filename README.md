@@ -1,4 +1,4 @@
-## Hi there! Im a gnom2949, i a beginner GTK developer on languages: C and Zig
+## Hi there! Im a gnom2949, i a beginner in GTK development, My main languages a: C, Zig and PHP
 ## My socials
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@archchroot)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasasilaev27@gmail.com)
